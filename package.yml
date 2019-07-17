@@ -1,0 +1,20 @@
+package: email_obfuscator 
+version: '2.0.0'
+author: RexDude
+supportpage: http://www.redaxo.org/de/forum/
+load: late
+page:
+    title: 'translate:title'
+    perm: admin[]
+    icon: rex-icon fa-envelope
+    subpages:
+        config: { title: 'translate:config' }
+        help:
+            title: 'translate:help'
+            subpages:
+                readme: { title: 'translate:help_readme' }
+                changelog: { title: 'translate:help_changelog' }
+                license: { title: 'translate:help_license' }
+conflicts:
+    packages:
+        emailobfuscator: '*'

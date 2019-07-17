@@ -1,0 +1,19 @@
+
+email_obfuscator_title = Email Obfuscator
+email_obfuscator_main_title = Email Obfuscator
+email_obfuscator_help = Hilfe
+email_obfuscator_help_readme = Readme
+email_obfuscator_help_changelog = Changelog
+email_obfuscator_help_license = Lizenz
+
+email_obfuscator_config = Einstellungen
+email_obfuscator_config_save = Einstellungen speichern
+email_obfuscator_config_saved = Einstellungen wurden gespeichert!
+
+email_obfuscator_config_javascriptmethod = JavaScript ROT13 Encryption Methode
+email_obfuscator_config_nojavascriptmethod = CSS "display:none" Methode - <i>(siehe Readme für benötigten Style!)</i>
+email_obfuscator_config_noscript_msg = Hinweis wenn JavaScript deaktiviert
+email_obfuscator_config_articles = Artikel ausschließen
+email_obfuscator_config_templates = Templates ausschließen
+
+
