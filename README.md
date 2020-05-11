@@ -1,3 +1,6 @@
+⚠️ Die Funktionalität dieses Addons wurde in das Addon [emailobfuscator](https://github.com/FriendsOfREDAXO/emailobfuscator) integriert und wird an dieser Stelle nicht länger gepflegt.
+
+
 Email Obfuscator AddOn für REDAXO 5
 ===================================
 
